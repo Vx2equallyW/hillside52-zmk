@@ -1,0 +1,12 @@
+file_format: "1"
+id: hillside
+name: Hillside52
+type: shield
+url: https://github.com/vx2equallyw/hillside52-zmk
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - hillside_left
+  - hillside_right
